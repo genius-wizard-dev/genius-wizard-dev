@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyễn Thành Thuận
 =========================================================================================================================================
 
-Software Engineer
+*Software Engineer | Web & AI Enthusiast*
 -----------------
 
 "I’m a passionate developer specializing in web technologies and artificial intelligence, always striving to turn ideas into innovative solutions. With a love for coding, learning, and collaborating on open-source projects, I’m focused on building impactful software and creative tech solutions."
