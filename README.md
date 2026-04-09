@@ -17,9 +17,10 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Software Engineer** based in 🇻🇳 Vietnam, specializing in **web development** and **artificial intelligence**. I love building innovative, scalable solutions and contributing to open-source projects.
+I'm a passionate **Software Engineer** based in 🇻🇳 Vietnam, specializing in **web development**, **big data**, and **artificial intelligence**. I love building innovative, scalable solutions and contributing to open-source projects.
 
-- 🔭 Currently working on **full-stack web & AI-integrated applications**
+- 🏢 Currently a **Big Data Engineer** at **[VNG Corporation](https://www.vng.com.vn/)** — one of Vietnam's leading tech companies
+- 🔭 Working with large-scale data pipelines, distributed systems, and data infrastructure
 - 🌱 Learning **Software Architecture · Data Science · Machine Learning · New Web Frameworks**
 - 🤝 Open to collaborating on interesting and impactful projects
 - 📫 Reach me at **longkim223300@gmail.com**
@@ -42,6 +43,7 @@ I'm a passionate **Software Engineer** based in 🇻🇳 Vietnam, specializing i
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 
@@ -58,6 +60,16 @@ I'm a passionate **Software Engineer** based in 🇻🇳 Vietnam, specializing i
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+**AI / ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
 **DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -73,14 +85,33 @@ I'm a passionate **Software Engineer** based in 🇻🇳 Vietnam, specializing i
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=genius-wizard-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genius-wizard-dev&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genius-wizard-dev&theme=tokyonight)](https://github.com/genius-wizard-dev)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=genius-wizard-dev&theme=tokyonight&hide_border=true)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=genius-wizard-dev&theme=tokyonight)](https://github.com/genius-wizard-dev)
+&nbsp;
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=genius-wizard-dev&theme=tokyonight)](https://github.com/genius-wizard-dev)
+&nbsp;
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=genius-wizard-dev&theme=tokyonight)](https://github.com/genius-wizard-dev)
+&nbsp;
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=genius-wizard-dev&theme=tokyonight&utcOffset=7)](https://github.com/genius-wizard-dev)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=genius-wizard-dev&theme=tokyo-night&hide_border=true&area=true)](https://github.com/genius-wizard-dev)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=genius-wizard-dev&style=flat-square&color=3b82f6&label=Profile+Views)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/genius-wizard-dev?style=flat-square&color=3b82f6&label=Followers)
 
 </div>
 
